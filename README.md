@@ -1,1 +1,1 @@
-This file contains the main demo codes of tensorflow and the realization codes of the principle reinforcement learning algorithms.
+This is the codes realizing principal reinforcement learning (RL) algorithms, together with some tensorflow code demos.
